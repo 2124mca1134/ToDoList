@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/2124mca1134/CaseChange/static/css/main.31d6cfe0.css",
+    "main.js": "/2124mca1134/CaseChange/static/js/main.a0004139.js",
+    "static/js/787.1dad13f8.chunk.js": "/2124mca1134/CaseChange/static/js/787.1dad13f8.chunk.js",
+    "index.html": "/2124mca1134/CaseChange/index.html",
+    "main.a0004139.js.map": "/2124mca1134/CaseChange/static/js/main.a0004139.js.map",
+    "787.1dad13f8.chunk.js.map": "/2124mca1134/CaseChange/static/js/787.1dad13f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.a0004139.js"
+  ]
+}
